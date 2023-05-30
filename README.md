@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiranKD45](https://github.com/KiranKD45)
 
-- 📝 I regularly write articles on [https://hashnode.com/@KiranM](https://hashnode.com/@KiranM)
+- 📝 I write articles on [https://hashnode.com/@KiranM](https://hashnode.com/@KiranM)
 
 - 💬 Ask me about **react, JavaScript, CSS, Tailwind CSS, HTML**
 
