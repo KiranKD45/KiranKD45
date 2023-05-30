@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankd45&label=Profile%20views&color=0e75b6&style=flat" alt="kirankd45" /> </p>
 
-- 🌱 I’m currently learning **Frontend React development**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiranKD45](https://github.com/KiranKD45)
 
