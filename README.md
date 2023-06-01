@@ -15,7 +15,7 @@
 - 📫 How to reach me **kiranm81040@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <h1>React </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <h2>React, JavaScript, CSS, TailwindCSS, HTML, Git, Express, Node.js, MangoDB, GitHub, Bootstrap</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirankd45&show_icons=true&locale=en&layout=compact" alt="kirankd45" /></p>
 
