@@ -10,7 +10,7 @@
 
 - 📝 I write articles on [https://hashnode.com/@KiranM](https://hashnode.com/@KiranM)
 
-- 💬 Ask me about **react, JavaScript, CSS, Tailwind CSS, HTML**
+- 💬 Ask me about **React, JavaScript, CSS, Tailwind CSS, HTML, MongoDB, Node.js**
 
 - 📫 How to reach me **kiranm81040@gmail.com**
 
